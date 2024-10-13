@@ -1,0 +1,3 @@
+# A Study of LSTM
+
+To write readme...
